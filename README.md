@@ -9,8 +9,12 @@
 --------
 
 
-# vMenu
+# vMenu Customized for AlaskaPD by AGN
 vMenu is server sided menu for FiveM servers, including full\* permission support.
+
+# Note: These files are unedited at the moment until I am finished with the development with this project
+
+The actual Files and customization will be released here on March 5th 2022
 
 
 \*(Some features do not have permissions support as they are either harmless or it'd just be silly to deny them. However, they will be disabled if you deny access to the submenu that they are a part of (eg: unlimited stamina in Player Options will be disabled if you deny `vMenu.PlayerOptions.Menu`.))
