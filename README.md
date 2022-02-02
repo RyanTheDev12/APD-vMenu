@@ -24,8 +24,7 @@ The actual Files and customization will be released here on March 5th 2022
 # Download & Installation & Permissions
 
 ## Download
-
-Click [here](https://github.com/TomGrobbe/vMenu/releases) to go to the releases page and download it.
+N/A
 
 --------
 
